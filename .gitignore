@@ -1,0 +1,40 @@
+# OS X
+.DS_Store*
+Icon?
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+.directory
+*~
+
+# npm
+node_modules
+*.log
+*.gz
+
+# Coveralls
+coverage
+
+# Benchmarking
+benchmarks/graphs
+
+/.idea
+.idea
+/.idea_modules
+*.iml
+*.tgz
+package-lock.json
+
+/public/scripts/bundle.js
+/public/scripts/bundle.js.map
+/public/styles/style.css
+/public/styles/style.css.map
+env.sh
+.vscode
+localEnv
+.env
